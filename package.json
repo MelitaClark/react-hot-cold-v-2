@@ -2,6 +2,7 @@
   "name": "hot-cold",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://melitaclark.github.io/reat-hot-cold/",
   "proxy": "http://localhost:8080/",
   "devDependencies": {
     "enzyme": "^3.1.1",
